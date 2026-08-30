@@ -18,7 +18,7 @@ This is learning project (term paper) dedicated to the study of practical implem
 
 1. Clone the repository:
 
-``git clone https://github.com``
+``git clone https://github.com/mishk2008/archiving.git``
 
 2. Compile the files (example for GCC):
 
