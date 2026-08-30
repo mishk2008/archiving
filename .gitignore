@@ -1,0 +1,24 @@
+# Executable files (compiled binaries)
+*.exe
+*.out
+*.app
+
+# Object files (intermediate compilation results)
+*.o
+*.obj
+
+# IDE settings and temporary folders (VS, VS Code, CLion)
+.vscode/
+.vs/
+*.user
+*.suo
+CMakeSettings.json
+out/
+build/
+Debug/
+Release/
+
+# System-generated files (Windows and macOS)
+Thumbs.db
+Desktop.ini
+.DS_Store
