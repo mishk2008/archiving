@@ -6,7 +6,7 @@ This is learning project (term paper) dedicated to the study of practical implem
 
 * **RLE (Run-Length Encoding)** - char repetition encoding algorithm. Good in files with long sequences of identical bytes
 * **LZ77** - dictionary-based compression using a sliding window. Forms the basis of many modern archivers
-* **Huffman(partially vibecode)** - entropy compression based on frequency analysis
+* **Huffman (partially vibecode)** - entropy compression based on frequency analysis
 
 ## Project structure
 
